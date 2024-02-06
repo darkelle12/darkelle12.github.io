@@ -34,7 +34,7 @@
             if (response === 'yes') {
                 document.getElementById("message").innerHTML = `thank you baby, iloveyousomuchh
                 sorry kung busy ako that time pero babawi ako, d ako makakapunta sa feb 14
-                pede po bang sa ibang araw nalang po pero i promise na pupunta ako`;
+                pede po bang sa ibang araw nalang po tayo mag date pero i promise na pupunta ako sorry kung natatagalan ako. ADVANCE HAPPY VALENTINES DAY MY DARLING! MWA`;
             } else {
                 alert(`why naman no po:<`);
                 
