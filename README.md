@@ -22,7 +22,7 @@
 <body>
     <div class="container">
         <h1>Happy Valentine's Day!</h1>
-        <h3> Can i take you on a date </h3>
+        <h3> Can i take you on a date?</h3>
         <button class="btn" onclick="inviteDate('yes')">Yes</button>
         <button class="btn" onclick="inviteDate('no')">No</button>
         <div id="message"></div>
