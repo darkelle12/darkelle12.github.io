@@ -33,10 +33,13 @@
             var name = (" are u sure darling? (yes only)");
             if (response === 'yes') {
                 document.getElementById("message").innerHTML = `thank you baby, iloveyousomuchh
-                sorry kung busy ako that time pero babawi ako d ako makakapunta sa feb 14
-                pede bang sa ibang araw nalang po pero i promise na pupunta ako`;
+                sorry kung busy ako that time pero babawi ako, d ako makakapunta sa feb 14
+                pede po bang sa ibang araw nalang po pero i promise na pupunta ako`;
             } else {
                 alert(`why naman no po:<`);
+                if else{
+                alert("😔")
+                }
             }
         }
     </script>
