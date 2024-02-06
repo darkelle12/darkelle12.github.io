@@ -37,9 +37,7 @@
                 pede po bang sa ibang araw nalang po pero i promise na pupunta ako`;
             } else {
                 alert(`why naman no po:<`);
-                if else{
-                alert("😔")
-                }
+                
             }
         }
     </script>
